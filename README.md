@@ -2,7 +2,7 @@
 
 **Ove the Engineer - Architecting the Future of Cloud-Native Intelligence for Australian Enterprises**
 
-[![High-Performance Engineer](https://img.shields.io/badge/Contributions-4000%20Annual-brightgreen)](https://github.com/SomeRandmGuyy) [![Certified Cloud Professional](https://img.shields.io/badge/Certified-HCP%2F AWS%2F Azure%2F CNCF-blue)](https://www.linkedin.com/in/your-linkedin-profile) [![LeetCode Master](https://img.shields.io/badge/LeetCode-12--15%20Hours%2FWeek-yellow)](https://leetcode.com/your-leetcode-profile)
+[![High-Performance Engineer](https://img.shields.io/badge/Contributions-4000%20Annual-brightgreen)](https://github.com/SomeRandmGuyy) [![Certified Cloud Professional](https://img.shields.io/badge/Certified-HCP%2F AWS%2F Azure%2F CNCF-blue)](https://www.linkedin.com/in/ove-govender) [![LeetCode Master](https://img.shields.io/badge/LeetCode-12--15%20Hours%2FWeek-yellow)](https://leetcode.com/your-leetcode-profile)
 
 This is Ove, a high-performing Software Engineer currently undertaking my Bachelor of Engineering, Honors (Software). The exciting part? My startup journey is deeply intertwined with my thesis work, allowing me to bring rigorously researched and practically applied expertise to the forefront of Cloud-Native Distributed Systems and Machine Learning. Think of my contributions here as peer-reviewed insights and developments building towards a formal scholarly publication.
 
@@ -37,6 +37,6 @@ This is Ove, a high-performing Software Engineer currently undertaking my Bachel
 * Build high-performance and scalable distributed systems.
 * Adopt and optimize DevSecOps, GitOps, SRE, and PEOps practices.
 
-**How to Reach Me:** [Your Preferred Contact Method/Link - e.g., LinkedIn Profile, Email]
+**How to Reach Me:** [LinkedIn - Ove Govender](https://www.linkedin.com/in/ove-govender)
 
 Let's architect the future together! 🚀
